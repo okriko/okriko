@@ -1,5 +1,5 @@
-<h1>Hi, I'm Mariia Medvedeva! 
-
+<h1>Hello, I'm Mariia Medvedeva!
+  
 <h2>📺 2020-2023 video works</h2>
 
 - <b>2020</b>
@@ -17,7 +17,17 @@
 
 <h2>Rat with Hat</h2>
 
-This project was the first attempt of 2D and 3D animation and modeling for me.
+
+<img src="./RWH_Cover.png" width=30% height=30%>
+
+<b>This project was the first attempt of 2D and 3D animation and modeling for me.<b> 
+
+
+<img src="./RWH_Characters.png">
+For 3D animation, it was decided to use simple models for animation to create a comical effect. Also, I used outline shader in Blender.
+
+<h2>The brew</h2>
+
 
 
 <h2>Connect with me:</h2>
