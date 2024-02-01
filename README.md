@@ -77,7 +77,7 @@ Having created such a style for the characters, I tried to transfer it to the en
 
 <img src="./SUN_Model1.png" width=80% height=80%>
 
-<img src="./SUN_Model2.png" width=80% height=80%>
+<img src="./SUN_Models2.png" width=80% height=80%>
 
 <img src="./SUN_Model3.png" width=80% height=80%>
 
