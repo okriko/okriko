@@ -121,7 +121,7 @@ In the video, I showed the process of creating the final graphics for the locati
 
 <img src="./TD_Cover.png" width=30% height=30%>
 
-<b>The character that was made in Blender for “The Door” horror game, which is currently in development.<b> 
+<b>The character that was made in Blender for “The Door” horror game which is currently in development.<b> 
 Little is known about this person, so local old men whisper about them.
 
 <img src="./TD_Model.png" width=80% height=80%>
