@@ -47,7 +47,7 @@ Initially, my team and I wanted to make a story about the ordinary life of a lit
 to add Slavic mythology to the narrative, which I tried to display 
 in the character design.
 
-<img src="./CH_Characters.png" width=80% height=80%>
+<img src="./CH_Screen.png" width=80% height=80%>
 
 This game has a demo on [itch.io](https://fluris.itch.io/chertila)!
 
