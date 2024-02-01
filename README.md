@@ -91,9 +91,9 @@ Having created such a style for the characters, I tried to transfer it to the en
 
 <img src="./SUN_Screen3.png" width=80% height=80%>
 
-<img src="./SUN_Screen4.png" width=80% height=80%>
-
 <img src="./SUN_Screen5.png" width=80% height=80%>
+
+<img src="./SUN_Screen4.png" width=80% height=80%>
 
 <h2>Last Lament</h2>
 
